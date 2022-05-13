@@ -10,6 +10,9 @@ Blog/Tutorial/Debugging/Video/Remote Node
 #### Credit
 Name/Alias/Anon (Equilibria Team)
 
+#### Target (written) (can be multiple)
+Medium/Wiki/Website
+
 #### Content
 Write your content here or link to youtube/medium/google docs.
 
