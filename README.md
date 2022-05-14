@@ -34,3 +34,5 @@ The Equilibria team offers the following one-time rewards:
 * Written posts must be clear and concise with correct grammar and spelling.
 * Copyright free pictures are strongly preferred in written posts to ensure getting the reward. 
 * Remote nodes need to be up for at least 1 month to get your reward. 
+* Written contributions must not be duplicates.
+* Tutorials or debugging guides can be OS specific. So one tutorial can be for Linux, one for Windows and one for Mac OS. 
